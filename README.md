@@ -7,6 +7,6 @@ Browser for plasmids search.
 
 **Data sources**: browser engine store data from [Addgene](https://www.addgene.org/), [Registry of Standard Biological Parts](http://parts.igem.org/Main_Page), and other sources.  
 
-**Technological Stack**: Python, PostgreSQL, Django, Flask, FastAPI, ...   
+**Technological Stack**: Python
 
 
